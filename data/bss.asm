@@ -1,0 +1,2 @@
+phInstance	DQ ?
+DialogProc	DQ ?
